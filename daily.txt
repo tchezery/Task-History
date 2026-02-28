@@ -1,0 +1,76 @@
+**========================= **Feb 19
+/ Beatriz:
+- Comparativo CheckScale x Maestro | Teams | 2h:
+  - Comparar se o relatório gerado pelo meu programa em Python bate com bate com ajuste de verificação de escala do Maestro;
+/ Felipe:
+- Divergência de registro de ponto Maestro x Senior | WhatsApp | 0.666667h:
+  - William - CSC;
+/ Romario:
+- Fundação Bradesco - Modelagem de Dados | Presencial | 4h:
+
+**========================= **Feb 20
+/ Apoio Operacional:
+- Alterar aprovadores de Justificativa | Teams | 0.5h:
+  - Randy;
+  - Flávia;
+  - Isabela;
+  - Erika;
+- Tirar duvidas de pendências de ponto | Presencial | 0.166667h:
+/ Romario:
+- Solicitar acesso aos recursos do Rubi | Presencial | 0.666667h:
+  - Recursos para criar/personalizar relatórios;
+  - Enviada solicitação ao Felipe - Email;
+/ Valmir:
+- Reunião - Alinhamento TI | Email | 1.5h:
+  - Nova aboradagem;
+/ Eu Mesmo:
+- View para Agenda em Python | 3.5h:
+- 176 Relatório - Teste | 0.666667h:
+  - Criar Relatório;
+/ Helen:
+- Criar Relatório - Programa Bulla | Chamado #390396 | 1h:
+  - 149 Colab. > Relac. Colab. - Relatório com maior quantidade de itens em comum;
+  - 701 Colab. > Relac. Colab. - Sujestão Relatório Helen;
+  - Verificando relatórios compativeis - Senior;
+  - 176 Test - Pagina de Test;
+
+**========================= **Feb 23
+/ Eu Mesmo:
+- Relatórios - Senior:
+  - Lendo documentação (ajuda) | 2h;
+/ Helen:
+- Relatório - Senior | Chamado #390396 | 7h:
+  - Acompanhamento - Felipe;
+
+**========================= **Feb 24
+/ Helen:
+- Relatório - Senior | Chamado #390396:
+  - Finalizando Modelo V1 | 4h;
+  - Ajustes de Pré-Filtros e Alteração para o módulo Rubi | 2h;
+/ Beatriz:
+- Adicionar Colaborador Admitidos ao sistema | Teams | 1.33333h:
+/ Felipe:
+- Justificativas Aceitas Fora do Prazo | Presencial:
+  - Verificar colaboradores que tiveram justificativa aceita após fechamento da folha | 0.666667h;
+/ Eu Mesmo:
+- View para Relatório de Atividadas:
+  - Melhorando Experiencia de Usuário | 0.5h;
+
+**========================= **Feb 25
+/ Eu Mesmo:
+- Melhoria Notificações - Maestro | 1.5h:
+  - Criando Layout Figma para propor melhoria no recebimento de notificações do Maestro;
+/ Felipe:
+- Relatório Senior | Presencial | 7.5h:
+
+**========================= **Feb 26
+/ Felipe:
+- Relatorio 177 | Presencial | 7h:
+/ Eu Mesmo:
+- Sistema Relatório de Atividades | 1.5h:
+  - Ajustando Tradução de Biblioteca Python;
+
+**========================= **Feb 27
+/ Eu Mesmo:
+- Learning Design Patters:
+  - site - https://refactoring.guru;

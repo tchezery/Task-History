@@ -1,0 +1,15 @@
+{
+  "hours_mode": "per_weekday",
+  "weekday_hours": {
+    "seg": 9.0,
+    "ter": 9.0,
+    "qua": 9.0,
+    "qui": 9.0,
+    "sex": 8.0,
+    "sab": 0.0,
+    "dom": 0.0
+  },
+  "theme": "light",
+  "language": "pt",
+  "bar_person_colors": true
+}
