@@ -72,5 +72,8 @@
 
 **========================= **Feb 27
 / Eu Mesmo:
-- Learning Design Patters:
+- Learning Design Patters | 1.5h:
   - site - https://refactoring.guru;
+/ Felipe:
+- Relatorio 177 | Presencial | 6.5h:
+  - Multiplas linhas de um mesmo funario;
