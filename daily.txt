@@ -77,3 +77,32 @@
 / Felipe:
 - Relatorio 177 | Presencial | 6.5h:
   - Multiplas linhas de um mesmo funario;
+
+**========================= **Mar 02
+/ Eu Mesmo:
+- Notificacoes Maestro | 2h:
+  - Atualizar Layout;
+  - Apresentar para o Valmir;
+/ Felipe:
+- Analise de Afastamento | Presencial | 0.666667h:
+  - Verificar usuarios CGH;
+  - Lançamentos após o fechamento;
+/ Helen:
+- Relatorio Caixa | Chamado #398703 | 1.5h:
+  - Finalizacao do Relatorio;
+  - Atualizar Descricao;
+  - Finalizar Chamado;
+/ Jairon:
+- Mudanca de Modalidade | Chamado #359975 | 1h:
+  - Devolvida por engano;
+  - Solicitante devolveu somente dia 02/02/2026;
+  - Beatriz CSC - Pediu para devolver;
+  - Beatriz AO - Pediu para repassar dados da solicitacao para sua analise;
+/ Aislla:
+- 106 - Relatorio De Afastamento | Chamado #220830 | 0.666667h:
+  - Solicitante pediu 009 + Coluna Demissão;
+  - Já existe relatório que cumpre solicitação - 106;
+/ Beatriz:
+- Relatorio dos Afastamentos Utilizados | 1h:
+  - Relacao dos ultimo 5 anos;
+  - Gerado todos os afastamentos da Security;
